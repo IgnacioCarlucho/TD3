@@ -1,6 +1,7 @@
 import numpy as np
 import torch
 import gym
+import gym_foo
 import argparse
 import os
 
